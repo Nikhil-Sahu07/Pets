@@ -2,9 +2,9 @@ NAME
 ====
 Whiskers.
 Felix.
-Oscar.
+Oscar. --- Cool
 Smudge.
-Fluffy.
+Fluffy. ---> Liked
 Angel.
 Lady.
 Lucky.

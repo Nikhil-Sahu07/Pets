@@ -1,10 +1,10 @@
 NAME
 ====
 Bella.
-Max.
+Max. ---> Considerable
 Luna.
 Charlie.
 Lucy.
-Cooper.
+Cooper. ---> Liked
 Daisy.
 Milo.
