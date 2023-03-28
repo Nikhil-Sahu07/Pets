@@ -6,5 +6,5 @@ Luna.
 Charlie.*
 Lucy.
 Cooper.
-Daisy.*
+Daisy.
 Milo.*
