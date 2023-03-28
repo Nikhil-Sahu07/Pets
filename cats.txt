@@ -1,10 +1,10 @@
 NAME
 ====
-Whiskers.
+Whiskers. *
 Felix.
-Oscar. --- Cool
+Oscar.
 Smudge.
-Fluffy. ---> Liked
-Angel.
+Fluffy.
+Angel.*
 Lady.
-Lucky.
+Lucky.*

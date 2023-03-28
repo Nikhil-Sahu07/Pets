@@ -1,10 +1,10 @@
 NAME
 ====
-Swedish. --> Liked
-McFish.
+Swedish.
+McFish.*
 Puff Daddy.
-Floater.
-Wave.
-Chips.
-Bob. ---> Loved it!
-Flotsam.
+Floater.*
+Wave.*
+Chips.*
+Bob.
+Flotsam.*
